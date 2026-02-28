@@ -1,32 +1,34 @@
-Quiz Web Application:-
+#2 ⏱ Internship Project Update – Stopwatch Web Application
 
-🌸 About the Project
+As part of my internship at SkillCraft Technology, I developed a fully responsive Stopwatch Web Application using HTML, CSS, and JavaScript.
 
-The Quiz Web App is designed with a clean and soft pastel user interface to provide a pleasant user experience.
-It helps users test their knowledge in a simple and interactive way.
+💻 Key Features:
 
-This project demonstrates:
+✔ Start / Pause / Reset functionality
 
-DOM manipulation
+✔ Real-time time tracking
 
-Event handling
+✔ Clean and responsive UI
 
-Conditional logic
+✔ Organized and structured code
 
-Score calculation
+📱 Works smoothly across mobile, tablet, and desktop screens.
 
-Dynamic content updating
+This project helped me strengthen my understanding of:
 
-✨ Features
+🔹 DOM manipulation
 
-📝 Multiple-choice questions
+🔹 JavaScript timing functions
 
-🎨 Soft pastel modern UI
+🔹 Event handling
 
-⚡ Instant answer validation
+🔹 Responsive design principles
 
-📊 Real-time score calculation
+I’m continuously learning and improving my frontend development skills. Feedback is always welcome! 
 
-🔄 Restart Quiz option
+🙌 Acknowledgment
 
-📱 Responsive design
+This project was developed during my internship at SkillCraft Technology, where I gained hands-on experience in frontend web development and practical project implementation.
+
+#Internship #SkillCraftTechnology #WebDevelopment #FrontendDeveloper #HTML #CSS #JavaScript #WomenInTech #BuildInPublic
+
