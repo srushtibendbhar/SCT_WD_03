@@ -47,15 +47,6 @@ quiz-web-application/
 ├── style.css
 ├── script.js
 └── README.md
-💻 How to Run
-
-Clone the repository
-
-git clone https://github.com/your-username/your-repository-name.git
-
-Open the project folder
-
-Run index.html in your browser
 
 🎯 Learning Outcomes
 
