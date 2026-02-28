@@ -1,34 +1,76 @@
-#2 ⏱ Internship Project Update – Stopwatch Web Application
+#3 🧠 Quiz Web Application
 
-As part of my internship at SkillCraft Technology, I developed a fully responsive Stopwatch Web Application using HTML, CSS, and JavaScript.
+This Quiz Web Application was developed as part of my internship at SkillCraft Technology.
 
-💻 Key Features:
+The project demonstrates my understanding of frontend development concepts, including dynamic content handling, responsive design, and JavaScript logic implementation.
 
-✔ Start / Pause / Reset functionality
+🚀 Project Description
 
-✔ Real-time time tracking
+The application allows users to:
 
-✔ Clean and responsive UI
+Attempt multiple-choice questions
 
-✔ Organized and structured code
+Select and submit answers
 
-📱 Works smoothly across mobile, tablet, and desktop screens.
+View instant feedback
 
-This project helped me strengthen my understanding of:
+Track their score
 
-🔹 DOM manipulation
+See final quiz results
 
-🔹 JavaScript timing functions
+The interface is clean, responsive, and optimized for mobile, tablet, and desktop screens.
 
-🔹 Event handling
+🛠 Technologies Used
 
-🔹 Responsive design principles
+HTML5
 
-I’m continuously learning and improving my frontend development skills. Feedback is always welcome! 
+CSS3
+
+JavaScript (Vanilla JS)
+
+✨ Key Features
+
+Interactive quiz interface
+
+Real-time score tracking
+
+Dynamic question rendering
+
+Responsive layout
+
+Structured and maintainable code
+
+📂 Project Structure
+quiz-web-application/
+│
+├── index.html
+├── style.css
+├── script.js
+└── README.md
+💻 How to Run
+
+Clone the repository
+
+git clone https://github.com/your-username/your-repository-name.git
+
+Open the project folder
+
+Run index.html in your browser
+
+🎯 Learning Outcomes
+
+During this internship project, I strengthened my skills in:
+
+DOM manipulation
+
+Event handling
+
+JavaScript conditional logic
+
+Responsive UI design
+
+Writing clean and organized frontend code
 
 🙌 Acknowledgment
 
-This project was developed during my internship at SkillCraft Technology, where I gained hands-on experience in frontend web development and practical project implementation.
-
-#Internship #SkillCraftTechnology #WebDevelopment #FrontendDeveloper #HTML #CSS #JavaScript #WomenInTech #BuildInPublic
-
+This project was completed as part of my internship at SkillCraft Technology, where I gained practical exposure to real-world web development practices.
